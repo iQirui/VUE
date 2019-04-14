@@ -1,1 +1,2 @@
-var t=0;
+const t = 3;
+console.log(t);
